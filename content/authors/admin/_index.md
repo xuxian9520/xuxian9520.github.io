@@ -31,7 +31,7 @@ bio: 欢迎来到我的博客
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: '1140007081@qq.com
+    url: '1140007081@qq.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/
