@@ -6,7 +6,7 @@ title: 莫蕾
 name_pronunciation: Molly
 
 # Full name (for SEO)
-first_name: lei
+first_name: Lei
 last_name: Mo
 
 # Status emoji
@@ -17,39 +17,37 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 一个可爱的女生
+role: 数字创意探索者
 
-# Organizations/Affiliations to show in About widget
+# Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: 
+  - name: 斯坦福大学
+    url: https://www.stanford.edu
 
-# Short bio (displayed in user profile at end of posts)
-bio: 欢迎来到我的博客
+# Short bio
+bio: 欢迎来到我的创意空间
 
 # Social Networking
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: '1140007081@qq.com'
-    label: E-mail Me
+    url: "mailto:1140007081@qq.com"
+    label: 发送邮件
   - icon: brands/x
-    url: https://twitter.com/
+    url: https://twitter.com/your_username
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/your_username
   - icon: brands/linkedin
-    url: https://www.linkedin.com
-  # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
+    url: https://www.linkedin.com/in/your_profile
   - icon: academicons/cv
     url: uploads/resume.pdf
-    label: Download my resume
+    label: 下载简历
   - icon: rss
     url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
+    label: RSS订阅
 
-# Highlight the author in author lists? (true/false)
+# Highlight author
 highlight_name: true
 
-# Author's website URL
+# Website
 website: ""
 ---
