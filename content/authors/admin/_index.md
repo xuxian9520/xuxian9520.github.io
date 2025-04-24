@@ -22,7 +22,7 @@ role: 一个可爱的女生
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Stanford University
-    url: https://www.stanford.edu/
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: 欢迎来到我的博客
@@ -31,14 +31,14 @@ bio: 欢迎来到我的博客
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: '1140007081@qq.com
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
