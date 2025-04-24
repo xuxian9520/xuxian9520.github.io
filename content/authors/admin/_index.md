@@ -53,5 +53,3 @@ highlight_name: true
 # Author's website URL
 website: ""
 ---
-
-molly的小窝
